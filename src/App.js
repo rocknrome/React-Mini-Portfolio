@@ -3,7 +3,6 @@ import './App.css';
 import Main from './components/Main'
 import Header from './components/header'
 import Footer from './components/Footer'
-import Projects from './components/Projects'
 /*import './index.css';*/
 
 function App() {
@@ -12,7 +11,6 @@ function App() {
 
       <Header />
       <Main />
-      <Projects />
       <Footer />
 
     </div>
