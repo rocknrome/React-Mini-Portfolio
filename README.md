@@ -1,4 +1,4 @@
-##React Mini-Portfolio##
+## React Mini-Portfolio
 
 The goal of this exercise is to get used to creating React components and working with them, you'll be create a one page mini portfolio.
 
